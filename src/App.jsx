@@ -1,6 +1,6 @@
 import { Routes, Route, Outlet, useNavigate } from "react-router-dom";
 import Home from "./pages/Home";
-import LogIn from "./pages/login";
+import LogIn from "./pages/Login";
 import Posts from "./pages/Posts";
 import Register from "./pages/Register";
 import PrivateRoute from "./components/PrivateRoute";
